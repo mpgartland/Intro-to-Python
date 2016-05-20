@@ -1,4 +1,4 @@
-# Intro-to-Python
+# Intro-to-Python for Analytics
 
 Rockhurst Intro to Python Class documents and examples
 
