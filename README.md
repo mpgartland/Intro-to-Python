@@ -10,12 +10,12 @@ The main focus is on Numpy, Pandas, Matplotlib.
 
 cd /Users/mylesgartland/Documents/Courses/Data Mining/Intro to Python/Python notebook items
 
-+++++++++++++++++
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 %matplotlib inline
-+++++++++++++++++++++
+
 
 -Numpy basics
 -Numpy Part 2
