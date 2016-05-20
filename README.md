@@ -11,19 +11,19 @@ The main focus is on Numpy, Pandas, Matplotlib.
 cd /Users/mylesgartland/Documents/Courses/Data Mining/Intro to Python/Python notebook items
 
 
-import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
-%matplotlib inline
-
-
--Numpy basics
--Numpy Part 2
--Numpy Vec
--Getting started with Pandas
--Data Loading, storage, file formats
--Plotting
--Pandas DataFrame advaced read_csv, read_html, binning, categorical data, more grouping, Apply, Transforming, Aggregate functions
+import pandas as pd <br/>
+import matplotlib.pyplot as plt<br/>
+import numpy as np<br/>
+%matplotlib inline<br/>
+<br/>
+<br/>
+-Numpy basics<br/>
+-Numpy Part 2<br/>
+-Numpy Vec<br/>
+-Getting started with Pandas<br/>
+-Data Loading, storage, file formats<br/>
+-Plotting<br/>
+-Pandas DataFrame advaced read_csv, read_html, binning, categorical data, more grouping, Apply, Transforming, Aggregate functions<br/>
 -Pandas DataFrame Plotting, Stats and Joins
 -Stats modules
 
